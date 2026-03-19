@@ -5,14 +5,13 @@ It is designed for learning and understanding core ML concepts through simple co
 
 ---
 
-Structure
+Project Structure
 
 AI_ML-main/
-├── k-means.py           
-├── linearreg.py         
-├── polynomialreg.py     
-└── README.md           
-
+├── k-means.py           # K-Means Clustering Algorithm
+├── linearreg.py         # Linear Regression Implementation
+├── polynomialreg.py     # Polynomial Regression
+└── README.md            # Project Documentation
 ---
 
 Features
