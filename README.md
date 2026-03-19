@@ -3,23 +3,23 @@ Machine Learning Practice Questions
 This repository contains basic Machine Learning practice implementations using Python.  
 It is designed for learning and understanding core ML concepts through simple code examples.
 
----
-
+--
 Project Structure
 
 AI_ML-main/
 ├── k-means.py           
 ├── linearreg.py         
 ├── polynomialreg.py     
-|── README.md    
+└── README.md            
+
 ---
 
 Features
 
-- Implementation of basic ML algorithms
-- Easy-to-understand Python code
-- Beginner-friendly examples
-- Helps in concept clarity and practice
+Implementation of basic ML algorithms
+Easy-to-understand Python code
+Beginner-friendly examples
+Helps in concept clarity and practice
 
 ---
 
@@ -31,7 +31,7 @@ K-Means Clustering
 
 ---
 
-equirements
+Requirements
 
 Make sure you have Python installed. Then install dependencies:
 
